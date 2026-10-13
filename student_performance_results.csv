@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Mathematics,Statistics,Attendance,Total,Average,Grade,Result
+101,Aisha Khan,AIML,85,90,80,92,255,85.0,A,Pass
+102,Rahul Patil,AIML,65,70,75,80,210,70.0,B,Pass
+103,Imran Shaikh,AIML,40,35,45,65,120,40.0,D,Fail
+104,Priya Rao,AIML,95,92,96,98,283,94.33,A+,Pass
+105,Sneha Kulkarni,AIML,78,82,74,88,234,78.0,B,Pass
+106,Arjun Desai,AIML,55,61,58,76,174,58.0,D,Pass
+107,Neha Joshi,AIML,88,84,91,94,263,87.67,A,Pass
+108,Kiran More,AIML,32,48,41,70,121,40.33,D,Fail
+109,Meera Shetty,AIML,72,76,69,85,217,72.33,B,Pass
+110,Aditya Naik,AIML,60,57,64,79,181,60.33,C,Pass
+111,Pooja Hegde,AIML,91,89,94,96,274,91.33,A+,Pass
+112,Vikram Singh,AIML,45,52,49,73,146,48.67,D,Pass
+113,Ananya Rao,AIML,83,87,85,91,255,85.0,A,Pass
+114,Rohan Kumar,AIML,68,63,71,82,202,67.33,C,Pass
+115,Farah Begum,AIML,74,79,77,87,230,76.67,B,Pass
+116,Sahil Jain,AIML,39,42,36,62,117,39.0,F,Fail
+117,Divya Nair,AIML,86,93,89,95,268,89.33,A,Pass
+118,Manoj Yadav,AIML,57,44,62,75,163,54.33,D,Pass
+119,Ishita Paul,AIML,80,81,84,90,245,81.67,A,Pass
+120,Sameer Ali,AIML,49,55,53,78,157,52.33,D,Pass
